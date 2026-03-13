@@ -1,11 +1,24 @@
-- 👋 Hi, I’m @SamSumanth6
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning BackEnd Development
-- 💞️ I’m looking to collaborate on FrontEnd Development(learning backend as of now)
-- 📫 How to reach me sumanthvenkatesh6@gmail.com
-- 😄 PortFolio: https://www.crio.do/learn/portfolio/sumanthvenkatesh6/
+Hi! My name is Sumanth V 😄
+========================================================================================================================================
 
-<!---
-SamSumanth6/SamSumanth6 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🌍 I am a Front-End Developer based in India.
+<br/>
+💻 Open to work!
+<br/>
+
+### Tech stack
+
+[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev)  
+[![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev)
+
+<br/>
+
+### Socials
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
